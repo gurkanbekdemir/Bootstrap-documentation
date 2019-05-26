@@ -74,6 +74,7 @@ Grid sisteminde tüm taşınabilir cihazlar için ayrı terimler tanımlanmışt
 Col tanımlar iken 2 şeye bakılır
 
 1- Hangi Ekran Tipi
+
 2- Sutun Genişligi
 
 ## Ekran Tipleri
