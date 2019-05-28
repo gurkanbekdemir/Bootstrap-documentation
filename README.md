@@ -110,5 +110,5 @@ Normal HTML etiketlerinde h1 den başlayarak h6 ya kadar giden başlık etiketle
 ```
 Bootstrap ile bunu başlık etiketi almadan Class içinde  kullanabiliriz.
 ```html
-<p class="h1">h1. Bootstrap Başlığı,d</p>
+<p class="h1">h1. Bootstrap Başlığı</p>
 ```
