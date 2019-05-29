@@ -102,9 +102,13 @@ offset-1 kullandığımız için her iki yanına 1 sutunluk boşluk bıraktı ve
 Yazdığımızda Sadece sol taraftan 3 Sutunluk ittirme yapabiliyoruz. 
 
 
-
-
-
-
-
-
+# Başlık
+Normal HTML etiketlerinde h1 den başlayarak h6 ya kadar giden başlık etiketleri bulunur. Kullanımı Aşağıdaki gibidir.
+```html
+<h1>Bootstrap</h1>
+<h6>Bootstrap</h6>
+```
+Bootstrap ile bunu başlık etiketi almadan Class içinde  kullanabiliriz.
+```html
+<p class="h1">h1. Bootstrap Başlığı</p>
+```
